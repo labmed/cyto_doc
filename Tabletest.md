@@ -1,4 +1,4 @@
-###### Mayo Stratification of Myeloma and Risk-Adapated Therapy.
+##### Mayo Stratification of Myeloma and Risk-Adapated Therapy.
 
 <table>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-###### The comprehensive Cytogenetic Scoring System (CCSS) for myelodysplastic syndromes.
+##### The comprehensive Cytogenetic Scoring System (CCSS) for myelodysplastic syndromes.
 
 | Prognostic subgroup | Defining cytogenetic abnormalities  |
 | ------------------- | ----------------------- |
