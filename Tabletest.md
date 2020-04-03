@@ -42,6 +42,6 @@
 | ------------------- | ----------------------- |
 | Very good           | Loss of Y chromosome <br/>Del(11q)     |
 | Good                | Normal <br/>del(5q) <br/>del(12p) <br/>del(20q) <br/>Double, including del(5q)      |
-| Intermediate        | del(7q)<br/> Gain of chromosome 8 <br/>Gain of chromosome 19<br/> Isochromosome 17q <br/>Single or double abnormalities not specified in other subgroups Two or more independent non-complex clones |
+| Intermediate        | del(7q)<br/> Gain of chromosome 8 <br/>Gain of chromosome 19<br/> Isochromosome 17q <br/>Single or double abnormalities not specified in other subgroups <br/> Two or more independent non-complex clones |
 | Poor                | Loss of chromosome 7<br/> inv(3), t(3q) or del(3q) <br/>Double including loss of chromosome 7 or del(7q) <br/>Complex (3 abnormalities)  |
 | Very poor           | Complex (>3 abnormaliteis)    |
